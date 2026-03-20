@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Akthe - Aktivitetsbasert Helsehjelp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Lenke: https://akthe.vercel.app
 
-## Available Scripts
+## Tagline
+Aktivitetsbasert Helsehjelp er en nyopprettet avdeling i Bærum kommune som tilbyr helsefremmende aktiviteter for personer med psykiske lidelser og rusutfordringer.
 
-In the project directory, you can run:
+## Mål
+- Bidra til bedring og mestring av hverdagen
+- Forebygge og reversere utenforskap
+- Tilby sosialt samhold, arbeidstrening, betalt arbeid og kompetanseheving
 
-### `npm start`
+## Tjenester / Tilbud
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Høl-i-CV-en
+En brukerstyrt kafe og foodtruck som tilbyr arbeidstrening og sosialt nettverk
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Rap Clinic
+Musikkaktiviteter og workshops som fremmer kommunikasjon, uttrykk og mestring
 
-### `npm test`
+### The Music Truck
+Ambulerende musikkaktiviteter som når ut til personer i lokalsamfunnet
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### DSA Groups
+Arbeidstilbud for personer på autismespekteret med fokus på skogsdrift og naturvern
 
-### `npm run build`
+## Fundament
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Recovery
+Vi legger til rette for helsetjenester som fremmer brukerens ressurser og styrker.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Supported Employment
+Vi tilbyr støtte og veiledning for å hjelpe brukere inn i ordinært, lønnet arbeid.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Individuell Jobbstøtte
+Vi tilbyr et forpliktende samarbeid med NAV for å hjelpe brukere med å finne og beholde en jobb.
 
-### `npm run eject`
+### Erfaringskompetanse
+Vi bruker brukermedvirkning og erfaringskompetanse i alt vi gjør.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Sosialt entreprenørskap
+Vi er innovative og sosialt engasjerte, og har som mål å være økonomisk bærekraftige.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Økonomisk grunnlag
+AKTHE er et kommunalt tiltak med støtte fra Bærum kommune og eksterne organisasjoner. Vi tar ikke ut overskudd, og alle innskytende midler går til å opprettholde og videreutvikle våre tilbud.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Kontakt
+- Telefon: 12345678
+- E-post: Post@post.com
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Del av: Bærum kommune
