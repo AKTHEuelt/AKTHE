@@ -216,11 +216,6 @@ const IconContainer = styled.div`
 `;
 
 
-const foundationVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0, transition: { duration: 0.8 } },
-  };
-
 // Define animation variants for the content sections
 const contentVariants = {
     offscreen: {
@@ -268,12 +263,7 @@ const ListItem = styled.li`
 `;
 
 
-const CustomHeading = styled(motion.h1)`
-  font-size: clamp(5rem, 8vw, 10rem); // Adjusts between 2.5rem and 10rem based on viewport width
-  color: #333;
-  margin: 0.5rem 0;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-`;
+// CustomHeading removed - unused
 
 const CustomParagraph = styled(motion.p)`
   font-size: clamp(1rem, 2.5vw, 1.5rem); // Responsive font size
@@ -437,10 +427,7 @@ cursor: pointer;
 `;
 
 
-const AKTHELogo = styled.img`
-  width: 120px; // Example size, adjust as needed
-  height: auto;
-`;
+// AKTHELogo removed - unused
 
 const HolicvenLogo = styled.img`
   width: 100px; // Default size
@@ -514,12 +501,6 @@ const Home = () => {
             });
     };
 
-    // Animation variants for the heading
-    const headingVariants = {
-        hidden: { opacity: 0, y: 20 },
-        visible: { opacity: 1, y: 0, transition: { duration: 1.5 } },
-    };
-  
     return (
       <>
         <Helmet>
